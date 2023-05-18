@@ -5,7 +5,7 @@
   <!-- A reasonable base group -->
   <groupId>org.infrastructurebuilder</groupId>
   <artifactId>ib-source-formats</artifactId>
-  <version>0.2.1-SNAPSHOT</version>
+  <version>0.3.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>${project.artifactId}</name>
