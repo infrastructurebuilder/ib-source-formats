@@ -4,7 +4,7 @@
   <!-- A reasonable base group -->
   <groupId>org.infrastructurebuilder</groupId>
   <artifactId>ib-source-formats</artifactId>
-  <version>0.2.0-SNAPSHOT</version>
+  <version>0.2.0</version>
   <packaging>jar</packaging>
   <name>${project.artifactId}</name>
   <description>Dependency for formatting/licensing/etc</description>
@@ -171,7 +171,7 @@
     <connection>scm:git:${git.url}</connection>
     <developerConnection>scm:git:${git.url}</developerConnection>
     <url>${git.scm.url}</url>
-    <tag>HEAD</tag>
+    <tag>ib-source-formats-0.2.0</tag>
   </scm>
 
   <distributionManagement>
